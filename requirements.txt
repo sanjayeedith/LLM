@@ -1,0 +1,13 @@
+langchain_community.vectorstores
+langchain.embeddings
+langchain.prompts
+HuggingFaceEmbeddings
+langchain
+import weaviate
+weaviate-client langchain tiktoken pypdf rapidocr-onnxruntime
+langchain_community
+sentence-transformers
+pvporcupine
+weaviate-client
+dotenv
+os
