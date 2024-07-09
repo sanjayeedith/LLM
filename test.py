@@ -123,7 +123,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # React to user input
-if prompt := st.chat_input("What would you like to know about your vehicle?"):
+if prompt := st.chat_input("Ask me something.."):
     # Display user message in chat message container
     st.chat_message("user").markdown(prompt)
     # Add user message to chat history
