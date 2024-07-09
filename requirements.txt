@@ -1,4 +1,4 @@
-HuggingFaceEmbeddings
+HuggingFace
 langchain
 weaviate-client
 langchain_community
