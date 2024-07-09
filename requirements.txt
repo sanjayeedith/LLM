@@ -4,7 +4,6 @@ langchain.prompts
 HuggingFaceEmbeddings
 langchain
 weaviate-client
-weaviate-client langchain tiktoken pypdf rapidocr-onnxruntime
 langchain_community
 sentence-transformers
 pvporcupine
