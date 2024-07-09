@@ -3,7 +3,7 @@ langchain.embeddings
 langchain.prompts
 HuggingFaceEmbeddings
 langchain
-import weaviate
+weaviate-client
 weaviate-client langchain tiktoken pypdf rapidocr-onnxruntime
 langchain_community
 sentence-transformers
