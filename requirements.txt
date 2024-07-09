@@ -5,5 +5,4 @@ langchain_community
 sentence-transformers
 pvporcupine
 weaviate-client
-dotenv
 os
